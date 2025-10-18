@@ -1,0 +1,469 @@
+,name,hp,atk,def,spa,spd,spe,weight,height,types,abilities,formats,isNonstandard,oob
+1102,Darmanitan-Galar-Zen,105,160,55,30,55,135,120.0,1.7,"['Ice', 'Fire']",['Zen Mode'],['Uber'],Standard,
+1103,Houndoom-Mega,75,90,90,140,90,115,49.5,1.9,"['Dark', 'Fire']",['Solar Power'],['National Dex'],NatDex,
+1104,Blastoise-Mega,79,103,120,135,115,78,101.1,1.6,['Water'],['Mega Launcher'],['National Dex'],NatDex,
+1105,Alcremie-Gmax,65,60,75,110,121,64,0.0,30.0,['Fairy'],"['Aroma Veil', 'Sweet Veil']",['AG'],Standard,
+1106,Mimikyu-Busted-Totem,55,90,80,50,105,96,2.8,0.4,"['Ghost', 'Fairy']",['Disguise'],['National Dex'],NatDex,
+1107,Lapras-Gmax,130,85,80,85,95,60,0.0,24.0,"['Water', 'Ice']","['Hydration', 'Shell Armor', 'Water Absorb']",['AG'],Standard,
+1108,Kangaskhan-Mega,105,125,100,60,100,100,100.0,2.2,['Normal'],['Parental Bond'],['National Dex'],NatDex,
+1109,Blaziken-Mega,80,160,80,130,80,100,52.0,1.9,"['Fire', 'Fighting']",['Speed Boost'],['National Dex'],NatDex,
+1110,Beedrill-Mega,65,150,40,15,80,145,40.5,1.4,"['Bug', 'Poison']",['Adaptability'],['National Dex'],NatDex,
+1111,Banette-Mega,64,165,75,93,83,75,13.0,1.2,['Ghost'],['Prankster'],['National Dex'],NatDex,
+1112,Melmetal-Gmax,135,143,143,80,65,34,0.0,25.0,['Steel'],['Iron Fist'],['AG'],Standard,
+1113,Pikachu-Gmax,35,55,40,50,50,90,0.0,21.0,['Electric'],"['Lightning Rod', 'Static']",['AG'],Standard,
+1114,Machamp-Gmax,90,130,80,65,85,55,0.0,25.0,['Fighting'],"['Guts', 'No Guard', 'Steadfast']",['AG'],Standard,
+1115,Gengar-Mega,60,65,80,170,95,130,40.5,1.4,"['Ghost', 'Poison']",['Shadow Tag'],['National Dex'],NatDex,
+1116,Tyranitar-Mega,100,164,150,95,120,71,255.0,2.5,"['Rock', 'Dark']",['Sand Stream'],['National Dex'],NatDex,
+1117,Pidgeot-Mega,83,80,80,135,80,121,50.5,2.2,"['Normal', 'Flying']",['No Guard'],['National Dex'],NatDex,
+1118,Pinsir-Mega,65,155,120,65,90,105,59.0,1.7,"['Bug', 'Flying']",['Aerilate'],['National Dex'],NatDex,
+1119,Mewtwo-Mega-X,106,190,100,154,100,130,127.0,2.3,"['Psychic', 'Fighting']",['Steadfast'],['National Dex'],NatDex,
+1120,Drednaw-Gmax,90,115,90,48,68,74,0.0,24.0,"['Water', 'Rock']","['Shell Armor', 'Strong Jaw', 'Swift Swim']",['AG'],Standard,
+1121,Rillaboom-Gmax,100,125,90,60,70,85,0.0,3.0,['Grass'],"['Grassy Surge', 'Overgrow']",['AG'],Standard,
+1122,Charizard-Gmax,78,84,78,109,85,100,0.0,28.0,"['Fire', 'Flying']","['Blaze', 'Solar Power']",['AG'],Standard,
+1123,Morpeko-Hangry,58,95,58,70,58,97,3.0,0.3,"['Electric', 'Dark']",['Hunger Switch'],['Untiered'],Standard,
+1124,Flapple-Gmax,70,110,80,95,60,70,0.0,24.0,"['Grass', 'Dragon']","['Gluttony', 'Hustle', 'Ripen']",['AG'],Standard,
+1125,Cramorant-Gulping,70,85,55,85,95,85,18.0,0.8,"['Flying', 'Water']",['Gulp Missile'],['Untiered'],Standard,
+1126,Urshifu-Gmax,100,130,100,63,60,97,0.0,3.0,"['Fighting', 'Dark']",['Unseen Fist'],['AG'],Standard,
+1127,Steelix-Mega,75,125,230,55,95,30,740.0,10.5,"['Steel', 'Ground']",['Sand Force'],['National Dex'],NatDex,
+1128,Cinderace-Gmax,80,116,75,65,75,119,0.0,3.0,['Fire'],"['Blaze', 'Libero']",['AG'],Standard,
+1129,Kyogre-Primal,100,150,90,180,160,90,430.0,9.8,['Water'],['Primordial Sea'],['National Dex'],NatDex,
+1130,Sceptile-Mega,70,110,75,145,85,145,55.2,1.9,"['Grass', 'Dragon']",['Lightning Rod'],['National Dex'],NatDex,
+1131,Greninja-Ash,72,145,67,153,71,132,40.0,1.5,"['Water', 'Dark']",['Battle Bond'],['National Dex'],NatDex,
+1132,Heracross-Mega,80,185,115,40,105,75,62.5,1.7,"['Bug', 'Fighting']",['Skill Link'],['National Dex'],NatDex,
+1133,Groudon-Primal,100,180,160,150,90,90,999.7,5.0,"['Ground', 'Fire']",['Desolate Land'],['National Dex'],NatDex,
+1134,Sableye-Mega,50,85,125,85,115,20,161.0,0.5,"['Dark', 'Ghost']",['Magic Bounce'],['National Dex'],NatDex,
+1135,Castform-Snowy,70,70,70,70,70,70,0.8,0.3,['Ice'],['Forecast'],['National Dex'],NatDex,
+1136,Ampharos-Mega,90,95,105,165,110,45,61.5,1.4,"['Electric', 'Dragon']",['Mold Breaker'],['National Dex'],NatDex,
+1137,Gyarados-Mega,95,155,109,70,130,81,305.0,6.5,"['Water', 'Dark']",['Mold Breaker'],['National Dex'],NatDex,
+1138,Garbodor-Gmax,80,95,82,60,82,75,0.0,21.0,['Poison'],"['Aftermath', 'Stench', 'Weak Armor']",['AG'],Standard,
+1139,Diancie-Mega,50,160,110,160,110,110,27.8,1.1,"['Rock', 'Fairy']",['Magic Bounce'],['National Dex'],NatDex,
+1140,Salamence-Mega,95,145,130,120,90,120,112.6,1.8,"['Dragon', 'Flying']",['Aerilate'],['National Dex'],NatDex,
+1141,Slowbro-Mega,95,75,180,130,80,30,120.0,2.0,"['Water', 'Psychic']",['Shell Armor'],['National Dex'],NatDex,
+1142,Orbeetle-Gmax,60,45,110,80,120,90,0.0,14.0,"['Bug', 'Psychic']","['Frisk', 'Swarm', 'Telepathy']",['AG'],Standard,
+1143,Venusaur-Gmax,80,82,83,100,100,80,0.0,2.0,"['Grass', 'Poison']","['Chlorophyll', 'Overgrow']",['AG'],Standard,
+1144,Wishiwashi-School,45,140,130,140,135,30,78.6,8.2,['Water'],['Schooling'],['Untiered'],Standard,
+1145,Altaria-Mega,75,110,110,110,105,80,20.6,1.5,"['Dragon', 'Fairy']",['Pixilate'],['National Dex'],NatDex,
+1146,Cramorant-Gorging,70,85,55,85,95,85,18.0,0.8,"['Flying', 'Water']",['Gulp Missile'],['Untiered'],Standard,
+1147,Toxtricity-Low-Key-Gmax,75,98,70,114,70,75,0.0,24.0,"['Electric', 'Poison']","['Minus', 'Punk Rock', 'Technician']",['AG'],Standard,
+1148,Manectric-Mega,70,75,80,135,80,135,44.0,1.8,['Electric'],['Intimidate'],['National Dex'],NatDex,
+1149,Meloetta-Pirouette,100,128,90,77,77,128,6.5,0.6,"['Normal', 'Fighting']",['Serene Grace'],['National Dex'],NatDex,
+1150,Inteleon-Gmax,70,85,65,125,65,120,0.0,3.0,['Water'],"['Sniper', 'Torrent']",['AG'],Standard,
+1151,Aggron-Mega,70,140,230,60,80,50,395.0,2.2,['Steel'],['Filter'],['National Dex'],NatDex,
+1152,Rayquaza-Mega,105,180,100,180,100,115,392.0,10.8,"['Dragon', 'Flying']",['Delta Stream'],['National Dex'],NatDex,
+1153,Lucario-Mega,70,145,88,140,70,112,57.5,1.3,"['Fighting', 'Steel']",['Adaptability'],['National Dex'],NatDex,
+1154,Garchomp-Mega,108,170,115,120,95,92,95.0,1.9,"['Dragon', 'Ground']",['Sand Force'],['National Dex'],NatDex,
+1155,Latios-Mega,80,130,100,160,120,110,70.0,2.3,"['Dragon', 'Psychic']",['Levitate'],['National Dex'],NatDex,
+1156,Sandaconda-Gmax,72,107,125,65,70,71,0.0,22.0,['Ground'],"['Sand Spit', 'Sand Veil', 'Shed Skin']",['AG'],Standard,
+1157,Coalossal-Gmax,110,80,120,80,90,30,0.0,42.0,"['Rock', 'Fire']","['Flame Body', 'Flash Fire', 'Steam Engine']",['AG'],Standard,
+1158,Corviknight-Gmax,98,87,105,53,85,67,0.0,14.0,"['Flying', 'Steel']","['Mirror Armor', 'Pressure', 'Unnerve']",['AG'],Standard,
+1159,Minior-Meteor,60,60,100,60,100,60,40.0,0.3,"['Rock', 'Flying']",['Shields Down'],['National Dex'],NatDex,
+1160,Glalie-Mega,80,120,80,120,80,100,350.2,2.1,['Ice'],['Refrigerate'],['National Dex'],NatDex,
+1161,Absol-Mega,65,150,60,115,60,115,49.0,1.2,['Dark'],['Magic Bounce'],['National Dex'],NatDex,
+1162,Alakazam-Mega,55,50,65,175,105,150,48.0,1.2,['Psychic'],['Trace'],['National Dex'],NatDex,
+1163,Castform-Rainy,70,70,70,70,70,70,0.8,0.3,['Water'],['Forecast'],['National Dex'],NatDex,
+1164,Grimmsnarl-Gmax,95,120,65,95,75,60,0.0,32.0,"['Dark', 'Fairy']","['Frisk', 'Pickpocket', 'Prankster']",['AG'],Standard,
+1165,Swampert-Mega,100,150,110,95,110,70,102.0,1.9,"['Water', 'Ground']",['Swift Swim'],['National Dex'],NatDex,
+1166,Copperajah-Gmax,122,130,69,80,69,30,0.0,23.0,['Steel'],"['Heavy Metal', 'Sheer Force']",['AG'],Standard,
+1167,Necrozma-Ultra,97,167,97,167,97,129,230.0,7.5,"['Psychic', 'Dragon']",['Neuroforce'],['National Dex'],NatDex,
+1168,Audino-Mega,103,60,126,80,126,50,32.0,1.5,"['Normal', 'Fairy']",['Healer'],['National Dex'],NatDex,
+1169,Gengar-Gmax,60,65,60,130,75,110,0.0,20.0,"['Ghost', 'Poison']",['Cursed Body'],['AG'],Standard,
+1170,Camerupt-Mega,70,120,100,145,105,20,320.5,2.5,"['Fire', 'Ground']",['Sheer Force'],['National Dex'],NatDex,
+1171,Kingler-Gmax,55,130,115,50,50,75,0.0,19.0,['Water'],"['Hyper Cutter', 'Sheer Force', 'Shell Armor']",['AG'],Standard,
+1172,Sharpedo-Mega,70,140,70,110,65,105,130.3,2.5,"['Water', 'Dark']",['Strong Jaw'],['National Dex'],NatDex,
+1173,Metagross-Mega,80,145,150,105,110,110,942.9,2.5,"['Steel', 'Psychic']",['Tough Claws'],['National Dex'],NatDex,
+1174,Mewtwo-Mega-Y,106,150,70,194,120,140,33.0,1.5,['Psychic'],['Insomnia'],['National Dex'],NatDex,
+1175,Gardevoir-Mega,68,85,65,165,135,100,48.4,1.6,"['Psychic', 'Fairy']",['Pixilate'],['National Dex'],NatDex,
+1176,Appletun-Gmax,110,85,80,100,80,30,0.0,24.0,"['Grass', 'Dragon']","['Gluttony', 'Ripen', 'Thick Fat']",['AG'],Standard,
+1177,Gallade-Mega,68,165,95,65,115,110,56.4,1.6,"['Psychic', 'Fighting']",['Inner Focus'],['National Dex'],NatDex,
+1178,Mawile-Mega,50,105,125,55,95,50,23.5,1.0,"['Steel', 'Fairy']",['Huge Power'],['National Dex'],NatDex,
+1179,Mimikyu-Busted,55,90,80,50,105,96,0.7,0.2,"['Ghost', 'Fairy']",['Disguise'],['RU'],Standard,
+1180,Latias-Mega,80,100,120,140,150,110,52.0,1.8,"['Dragon', 'Psychic']",['Levitate'],['National Dex'],NatDex,
+1181,Charizard-Mega-Y,78,104,78,159,115,100,100.5,1.7,"['Fire', 'Flying']",['Drought'],['National Dex'],NatDex,
+1182,Darmanitan-Zen,105,30,105,140,105,55,92.9,1.3,"['Fire', 'Psychic']",['Zen Mode'],['RU'],Standard,
+1183,Zygarde-Complete,216,100,121,91,95,85,610.0,4.5,"['Dragon', 'Ground']",['Power Construct'],['Uber'],Standard,
+1184,Eiscue-Noice,75,80,70,65,50,130,89.0,1.4,['Ice'],['Ice Face'],['Untiered'],Standard,
+1185,Aegislash-Blade,60,140,50,140,50,60,53.0,1.7,"['Steel', 'Ghost']",['Stance Change'],['UU'],Standard,
+1186,Urshifu-Rapid-Strike-Gmax,100,130,100,63,60,97,105.0,1.9,"['Fighting', 'Water']",['Unseen Fist'],['AG'],Standard,
+1187,Duraludon-Gmax,70,95,115,120,50,85,0.0,43.0,"['Steel', 'Dragon']","['Heavy Metal', 'Light Metal', 'Stalwart']",['AG'],Standard,
+1188,Medicham-Mega,60,100,85,80,85,100,31.5,1.3,"['Fighting', 'Psychic']",['Pure Power'],['National Dex'],NatDex,
+1189,Centiskorch-Gmax,100,115,65,90,90,65,0.0,75.0,"['Fire', 'Bug']","['Flame Body', 'Flash Fire', 'White Smoke']",['AG'],Standard,
+1190,Toxtricity-Gmax,75,98,70,114,70,75,0.0,24.0,"['Electric', 'Poison']","['Plus', 'Punk Rock', 'Technician']",['AG'],Standard,
+1191,Butterfree-Gmax,60,45,50,90,80,70,0.0,17.0,"['Bug', 'Flying']","['Compound Eyes', 'Tinted Lens']",['AG'],Standard,
+1192,Castform-Sunny,70,70,70,70,70,70,0.8,0.3,['Fire'],['Forecast'],['National Dex'],NatDex,
+1193,Abomasnow-Mega,90,132,105,132,105,30,185.0,2.7,"['Grass', 'Ice']",['Snow Warning'],['National Dex'],NatDex,
+1194,Snorlax-Gmax,160,110,65,65,110,30,0.0,35.0,['Normal'],"['Gluttony', 'Immunity', 'Thick Fat']",['AG'],Standard,
+1195,Venusaur-Mega,80,100,123,122,120,80,155.5,2.4,"['Grass', 'Poison']",['Thick Fat'],['National Dex'],NatDex,
+1196,Cherrim-Sunshine,70,60,70,87,78,85,9.3,0.5,['Grass'],['Flower Gift'],['Untiered'],Standard,
+1197,Aerodactyl-Mega,80,135,85,70,95,150,79.0,2.1,"['Rock', 'Flying']",['Tough Claws'],['National Dex'],NatDex,
+1198,Charizard-Mega-X,78,130,111,130,85,100,110.5,1.7,"['Fire', 'Dragon']",['Tough Claws'],['National Dex'],NatDex,
+1199,Lopunny-Mega,65,136,94,54,96,135,28.3,1.3,"['Normal', 'Fighting']",['Scrappy'],['National Dex'],NatDex,
+1200,Hatterene-Gmax,57,90,95,136,103,29,0.0,26.0,"['Psychic', 'Fairy']","['Anticipation', 'Healer', 'Magic Bounce']",['AG'],Standard,
+1201,Scizor-Mega,70,150,140,65,100,75,125.0,2.0,"['Bug', 'Steel']",['Technician'],['National Dex'],NatDex,
+1202,Blastoise-Gmax,79,83,100,85,105,78,0.0,1.6,['Water'],"['Rain Dish', 'Torrent']",['AG'],Standard,
+1203,Crucibelle-Mega,106,135,75,91,125,108,22.5,1.4,"['Rock', 'Poison']",['Magic Guard'],['CAP'],CAP,
+1204,Meowth-Gmax,40,45,35,40,40,90,0.0,33.0,['Normal'],"['Pickup', 'Technician', 'Unnerve']",['AG'],Standard,
+1205,Eevee-Gmax,55,55,50,45,65,55,0.0,18.0,['Normal'],"['Adaptability', 'Anticipation', 'Run Away']",['AG'],Standard,
+620,Basculin-Blue-Striped,70,92,65,80,55,98,18.0,1.0,['Water'],"['Adaptability', 'Mold Breaker', 'Rock Head']",['Untiered'],Standard,"{'dex_number': 550, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+703,Keldeo-Resolute,91,72,90,129,90,108,48.5,1.4,"['Water', 'Fighting']",['Justified'],['UU'],Standard,"{'dex_number': 647, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+706,Genesect-Douse,71,120,95,120,95,99,82.5,1.5,"['Bug', 'Steel']",['Download'],['Uber'],Standard,"{'dex_number': 649, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+707,Genesect-Shock,71,120,95,120,95,99,82.5,1.5,"['Bug', 'Steel']",['Download'],['Uber'],Standard,"{'dex_number': 649, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+708,Genesect-Burn,71,120,95,120,95,99,82.5,1.5,"['Bug', 'Steel']",['Download'],['Uber'],Standard,"{'dex_number': 649, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+709,Genesect-Chill,71,120,95,120,95,99,82.5,1.5,"['Bug', 'Steel']",['Download'],['Uber'],Standard,"{'dex_number': 649, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+812,Pikachu-Original,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+813,Pikachu-Hoenn,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+814,Pikachu-Sinnoh,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+815,Pikachu-Unova,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+816,Pikachu-Kalos,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+817,Pikachu-Alola,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+818,Pikachu-Partner,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+977,Pikachu-World,35,55,40,50,50,90,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",['Untiered'],Standard,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+997,Magearna-Original,80,95,115,130,115,65,80.5,1.0,"['Steel', 'Fairy']",['Soul-Heart'],['Uber'],Standard,"{'dex_number': 801, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+1038,Toxtricity-Low-Key,75,98,70,114,70,75,40.0,1.6,"['Electric', 'Poison']","['Minus', 'Punk Rock', 'Technician']",['RU'],Standard,"{'dex_number': 849, 'evos': [], 'alts': ['Toxtricity-Low-Key-Gmax'], 'genfamily': ['SS']}"
+1044,Sinistea-Antique,40,45,45,74,54,50,0.2,0.1,['Ghost'],"['Cursed Body', 'Weak Armor']",['LC'],Standard,"{'dex_number': 854, 'evos': ['Polteageist-Antique'], 'alts': [], 'genfamily': ['SS']}"
+1046,Polteageist-Antique,60,65,65,134,114,70,0.4,0.2,['Ghost'],"['Cursed Body', 'Weak Armor']",['NUBL'],Standard,"{'dex_number': 855, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+1080,Zacian,92,130,115,80,115,138,110.0,2.8,['Fairy'],['Intrepid Sword'],['AG'],Standard,"{'dex_number': 888, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+1081,Zacian-Crowned,92,170,115,80,115,148,355.0,2.8,"['Fairy', 'Steel']",['Intrepid Sword'],['AG'],Standard,"{'dex_number': 888, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+1089,Zarude-Dada,105,120,105,70,95,105,70.0,1.8,"['Dark', 'Grass']",['Leaf Guard'],['RU'],Standard,"{'dex_number': 893, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+12,Weedle,40,35,30,20,20,50,3.2,0.3,"['Bug', 'Poison']","['Run Away', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 13, 'evos': ['Kakuna'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+13,Kakuna,45,25,50,25,25,35,10.0,0.6,"['Bug', 'Poison']",['Shed Skin'],National Dex,NatDex,"{'dex_number': 14, 'evos': ['Beedrill'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+14,Beedrill,65,90,40,45,80,75,29.5,1.0,"['Bug', 'Poison']","['Sniper', 'Swarm']",National Dex,NatDex,"{'dex_number': 15, 'evos': [], 'alts': ['Beedrill-Mega'], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+15,Pidgey,40,45,40,35,35,56,1.8,0.3,"['Normal', 'Flying']","['Big Pecks', 'Keen Eye', 'Tangled Feet']",National Dex,NatDex,"{'dex_number': 16, 'evos': ['Pidgeotto'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+16,Pidgeotto,63,60,55,50,50,71,30.0,1.1,"['Normal', 'Flying']","['Big Pecks', 'Keen Eye', 'Tangled Feet']",National Dex,NatDex,"{'dex_number': 17, 'evos': ['Pidgeot'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+17,Pidgeot,83,80,75,70,70,101,39.5,1.5,"['Normal', 'Flying']","['Big Pecks', 'Keen Eye', 'Tangled Feet']",National Dex,NatDex,"{'dex_number': 18, 'evos': [], 'alts': ['Pidgeot-Mega'], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+18,Rattata,30,56,35,25,35,72,3.5,0.3,['Normal'],"['Guts', 'Hustle', 'Run Away']",National Dex,NatDex,"{'dex_number': 19, 'evos': ['Raticate'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+19,Raticate,55,81,60,50,70,97,18.5,0.7,['Normal'],"['Guts', 'Hustle', 'Run Away']",National Dex,NatDex,"{'dex_number': 20, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+20,Spearow,40,60,30,31,31,70,2.0,0.3,"['Normal', 'Flying']","['Keen Eye', 'Sniper']",National Dex,NatDex,"{'dex_number': 21, 'evos': ['Fearow'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+21,Fearow,65,90,65,61,61,100,38.0,1.2,"['Normal', 'Flying']","['Keen Eye', 'Sniper']",National Dex,NatDex,"{'dex_number': 22, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+22,Ekans,35,60,44,40,54,55,6.9,2.0,['Poison'],"['Intimidate', 'Shed Skin', 'Unnerve']",National Dex,NatDex,"{'dex_number': 23, 'evos': ['Arbok'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+23,Arbok,60,95,69,65,79,80,65.0,3.5,['Poison'],"['Intimidate', 'Shed Skin', 'Unnerve']",National Dex,NatDex,"{'dex_number': 24, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+45,Paras,35,70,55,45,55,25,5.4,0.3,"['Bug', 'Grass']","['Damp', 'Dry Skin', 'Effect Spore']",National Dex,NatDex,"{'dex_number': 46, 'evos': ['Parasect'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+46,Parasect,60,95,80,60,80,30,29.5,1.0,"['Bug', 'Grass']","['Damp', 'Dry Skin', 'Effect Spore']",National Dex,NatDex,"{'dex_number': 47, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+47,Venonat,60,55,50,40,55,45,30.0,1.0,"['Bug', 'Poison']","['Compound Eyes', 'Run Away', 'Tinted Lens']",National Dex,NatDex,"{'dex_number': 48, 'evos': ['Venomoth'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+48,Venomoth,70,65,60,90,75,90,12.5,1.5,"['Bug', 'Poison']","['Shield Dust', 'Tinted Lens', 'Wonder Skin']",National Dex,NatDex,"{'dex_number': 49, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+55,Mankey,40,80,35,35,45,70,28.0,0.5,['Fighting'],"['Anger Point', 'Defiant', 'Vital Spirit']",National Dex,NatDex,"{'dex_number': 56, 'evos': ['Primeape'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+56,Primeape,65,105,60,60,70,95,32.0,1.0,['Fighting'],"['Anger Point', 'Defiant', 'Vital Spirit']",National Dex,NatDex,"{'dex_number': 57, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+68,Bellsprout,50,75,35,70,30,40,4.0,0.7,"['Grass', 'Poison']","['Chlorophyll', 'Gluttony']",National Dex,NatDex,"{'dex_number': 69, 'evos': ['Weepinbell'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+69,Weepinbell,65,90,50,85,45,55,6.4,1.0,"['Grass', 'Poison']","['Chlorophyll', 'Gluttony']",National Dex,NatDex,"{'dex_number': 70, 'evos': ['Victreebel'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+70,Victreebel,80,105,65,100,70,70,15.5,1.7,"['Grass', 'Poison']","['Chlorophyll', 'Gluttony']",National Dex,NatDex,"{'dex_number': 71, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+73,Geodude,40,80,100,30,30,20,20.0,0.4,"['Rock', 'Ground']","['Rock Head', 'Sand Veil', 'Sturdy']",National Dex,NatDex,"{'dex_number': 74, 'evos': ['Graveler'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+74,Graveler,55,95,115,45,45,35,105.0,1.0,"['Rock', 'Ground']","['Rock Head', 'Sand Veil', 'Sturdy']",National Dex,NatDex,"{'dex_number': 75, 'evos': ['Golem'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+75,Golem,80,120,130,55,65,45,300.0,1.4,"['Rock', 'Ground']","['Rock Head', 'Sand Veil', 'Sturdy']",National Dex,NatDex,"{'dex_number': 76, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+83,Doduo,35,85,45,35,35,75,39.2,1.4,"['Normal', 'Flying']","['Early Bird', 'Run Away', 'Tangled Feet']",National Dex,NatDex,"{'dex_number': 84, 'evos': ['Dodrio'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+84,Dodrio,60,110,70,60,60,110,85.2,1.8,"['Normal', 'Flying']","['Early Bird', 'Run Away', 'Tangled Feet']",National Dex,NatDex,"{'dex_number': 85, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+85,Seel,65,45,55,45,70,45,90.0,1.1,['Water'],"['Hydration', 'Ice Body', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 86, 'evos': ['Dewgong'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+86,Dewgong,90,70,80,70,95,70,120.0,1.7,"['Water', 'Ice']","['Hydration', 'Ice Body', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 87, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+87,Grimer,80,80,50,40,50,25,30.0,0.9,['Poison'],"['Poison Touch', 'Stench', 'Sticky Hold']",National Dex,NatDex,"{'dex_number': 88, 'evos': ['Muk'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+88,Muk,105,105,75,65,100,50,30.0,1.2,['Poison'],"['Poison Touch', 'Stench', 'Sticky Hold']",National Dex,NatDex,"{'dex_number': 89, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+95,Drowzee,60,48,45,43,90,42,32.4,1.0,['Psychic'],"['Forewarn', 'Inner Focus', 'Insomnia']",National Dex,NatDex,"{'dex_number': 96, 'evos': ['Hypno'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+96,Hypno,85,73,70,73,115,67,75.6,1.6,['Psychic'],"['Forewarn', 'Inner Focus', 'Insomnia']",National Dex,NatDex,"{'dex_number': 97, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+99,Voltorb,40,30,50,55,55,100,10.4,0.5,['Electric'],"['Aftermath', 'Soundproof', 'Static']",National Dex,NatDex,"{'dex_number': 100, 'evos': ['Electrode'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+100,Electrode,60,50,70,80,80,150,66.6,1.2,['Electric'],"['Aftermath', 'Soundproof', 'Static']",National Dex,NatDex,"{'dex_number': 101, 'evos': [], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+151,Chikorita,45,49,65,49,65,45,6.4,0.9,['Grass'],"['Leaf Guard', 'Overgrow']",National Dex,NatDex,"{'dex_number': 152, 'evos': ['Bayleef'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+152,Bayleef,60,62,80,63,80,60,15.8,1.2,['Grass'],"['Leaf Guard', 'Overgrow']",National Dex,NatDex,"{'dex_number': 153, 'evos': ['Meganium'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+153,Meganium,80,82,100,83,100,80,100.5,1.8,['Grass'],"['Leaf Guard', 'Overgrow']",National Dex,NatDex,"{'dex_number': 154, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+154,Cyndaquil,39,52,43,60,50,65,7.9,0.5,['Fire'],"['Blaze', 'Flash Fire']",National Dex,NatDex,"{'dex_number': 155, 'evos': ['Quilava'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+155,Quilava,58,64,58,80,65,80,19.0,0.9,['Fire'],"['Blaze', 'Flash Fire']",National Dex,NatDex,"{'dex_number': 156, 'evos': ['Typhlosion'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+156,Typhlosion,78,84,78,109,85,100,79.5,1.7,['Fire'],"['Blaze', 'Flash Fire']",National Dex,NatDex,"{'dex_number': 157, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+157,Totodile,50,65,64,44,48,43,9.5,0.6,['Water'],"['Sheer Force', 'Torrent']",National Dex,NatDex,"{'dex_number': 158, 'evos': ['Croconaw'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+158,Croconaw,65,80,80,59,63,58,25.0,1.1,['Water'],"['Sheer Force', 'Torrent']",National Dex,NatDex,"{'dex_number': 159, 'evos': ['Feraligatr'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+159,Feraligatr,85,105,100,79,83,78,88.8,2.3,['Water'],"['Sheer Force', 'Torrent']",National Dex,NatDex,"{'dex_number': 160, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+164,Ampharos,90,75,85,115,90,55,61.5,1.4,['Electric'],"['Plus', 'Static']",National Dex,NatDex,"{'dex_number': 181, 'evos': [], 'alts': ['Ampharos-Mega'], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+168,Jumpluff,75,55,70,55,95,110,3.0,0.8,"['Grass', 'Flying']","['Chlorophyll', 'Infiltrator', 'Leaf Guard']",National Dex,NatDex,"{'dex_number': 189, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+169,Snubbull,60,80,50,40,40,30,7.8,0.6,['Fairy'],"['Intimidate', 'Rattled', 'Run Away']",National Dex,NatDex,"{'dex_number': 209, 'evos': ['Granbull'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+170,Granbull,90,120,75,60,60,45,48.7,1.4,['Fairy'],"['Intimidate', 'Quick Feet', 'Rattled']",National Dex,NatDex,"{'dex_number': 210, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+174,Ariados,70,90,70,60,70,40,33.5,1.1,"['Bug', 'Poison']","['Insomnia', 'Sniper', 'Swarm']",National Dex,NatDex,"{'dex_number': 168, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+176,Magcargo,60,50,120,90,80,30,55.0,0.8,"['Fire', 'Rock']","['Flame Body', 'Magma Armor', 'Weak Armor']",National Dex,NatDex,"{'dex_number': 219, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+182,Sentret,35,46,34,35,45,20,6.0,0.8,['Normal'],"['Frisk', 'Keen Eye', 'Run Away']",National Dex,NatDex,"{'dex_number': 161, 'evos': ['Furret'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+183,Furret,85,76,64,45,55,90,32.5,1.8,['Normal'],"['Frisk', 'Keen Eye', 'Run Away']",National Dex,NatDex,"{'dex_number': 162, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+185,Ledyba,40,20,30,40,80,55,10.8,1.0,"['Bug', 'Flying']","['Early Bird', 'Rattled', 'Swarm']",National Dex,NatDex,"{'dex_number': 165, 'evos': ['Ledian'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+186,Ledian,55,35,50,55,110,85,35.6,1.4,"['Bug', 'Flying']","['Early Bird', 'Iron Fist', 'Swarm']",National Dex,NatDex,"{'dex_number': 166, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+187,Spinarak,40,60,40,40,40,30,8.5,0.5,"['Bug', 'Poison']","['Insomnia', 'Sniper', 'Swarm']",National Dex,NatDex,"{'dex_number': 167, 'evos': ['Ariados'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+194,Mareep,55,40,40,65,45,35,7.8,0.6,['Electric'],"['Plus', 'Static']",National Dex,NatDex,"{'dex_number': 179, 'evos': ['Flaaffy'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+195,Flaaffy,70,55,55,80,60,45,13.3,0.8,['Electric'],"['Plus', 'Static']",National Dex,NatDex,"{'dex_number': 180, 'evos': ['Ampharos'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+198,Hoppip,35,35,40,35,55,50,0.5,0.4,"['Grass', 'Flying']","['Chlorophyll', 'Infiltrator', 'Leaf Guard']",National Dex,NatDex,"{'dex_number': 187, 'evos': ['Skiploom'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+199,Skiploom,55,45,50,45,65,80,1.0,0.6,"['Grass', 'Flying']","['Chlorophyll', 'Infiltrator', 'Leaf Guard']",National Dex,NatDex,"{'dex_number': 188, 'evos': ['Jumpluff'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+200,Aipom,55,70,55,40,55,85,11.5,0.8,['Normal'],"['Pickup', 'Run Away', 'Skill Link']",National Dex,NatDex,"{'dex_number': 190, 'evos': ['Ambipom'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+201,Sunkern,30,30,30,30,30,30,1.8,0.3,['Grass'],"['Chlorophyll', 'Early Bird', 'Solar Power']",National Dex,NatDex,"{'dex_number': 191, 'evos': ['Sunflora'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+202,Sunflora,75,75,55,105,85,30,8.5,0.8,['Grass'],"['Chlorophyll', 'Early Bird', 'Solar Power']",National Dex,NatDex,"{'dex_number': 192, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+203,Yanma,65,65,45,75,45,95,38.0,1.2,"['Bug', 'Flying']","['Compound Eyes', 'Frisk', 'Speed Boost']",National Dex,NatDex,"{'dex_number': 193, 'evos': ['Yanmega'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+208,Murkrow,60,85,42,85,42,91,2.1,0.5,"['Dark', 'Flying']","['Insomnia', 'Prankster', 'Super Luck']",National Dex,NatDex,"{'dex_number': 198, 'evos': ['Honchkrow'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+210,Misdreavus,60,60,60,85,85,85,1.0,0.7,['Ghost'],['Levitate'],National Dex,NatDex,"{'dex_number': 200, 'evos': ['Mismagius'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+211,Unown,48,72,48,72,48,48,5.0,0.5,['Psychic'],['Levitate'],National Dex,NatDex,"{'dex_number': 201, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+213,Girafarig,70,80,65,90,65,85,41.5,1.5,"['Normal', 'Psychic']","['Early Bird', 'Inner Focus', 'Sap Sipper']",National Dex,NatDex,"{'dex_number': 203, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+214,Pineco,50,65,90,35,35,15,7.2,0.6,['Bug'],"['Overcoat', 'Sturdy']",National Dex,NatDex,"{'dex_number': 204, 'evos': ['Forretress'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+215,Forretress,75,90,140,60,60,40,125.8,1.2,"['Bug', 'Steel']","['Overcoat', 'Sturdy']",National Dex,NatDex,"{'dex_number': 205, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+217,Gligar,65,75,105,35,65,85,64.8,1.1,"['Ground', 'Flying']","['Hyper Cutter', 'Immunity', 'Sand Veil']",National Dex,NatDex,"{'dex_number': 207, 'evos': ['Gliscor'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+223,Teddiursa,60,80,50,50,50,40,8.8,0.6,['Normal'],"['Honey Gather', 'Pickup', 'Quick Feet']",National Dex,NatDex,"{'dex_number': 216, 'evos': ['Ursaring'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+224,Ursaring,90,130,75,75,75,55,125.8,1.8,['Normal'],"['Guts', 'Quick Feet', 'Unnerve']",National Dex,NatDex,"{'dex_number': 217, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+225,Slugma,40,40,40,70,40,20,35.0,0.7,['Fire'],"['Flame Body', 'Magma Armor', 'Weak Armor']",National Dex,NatDex,"{'dex_number': 218, 'evos': ['Magcargo'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+232,Houndour,45,60,30,80,50,65,10.8,0.6,"['Dark', 'Fire']","['Early Bird', 'Flash Fire', 'Unnerve']",National Dex,NatDex,"{'dex_number': 228, 'evos': ['Houndoom'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+233,Houndoom,75,90,50,110,80,95,35.0,1.4,"['Dark', 'Fire']","['Early Bird', 'Flash Fire', 'Unnerve']",National Dex,NatDex,"{'dex_number': 229, 'evos': [], 'alts': ['Houndoom-Mega'], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+235,Phanpy,90,60,60,40,40,40,33.5,0.5,['Ground'],"['Pickup', 'Sand Veil']",National Dex,NatDex,"{'dex_number': 231, 'evos': ['Donphan'], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+236,Donphan,90,120,120,60,60,50,120.0,1.1,['Ground'],"['Sand Veil', 'Sturdy']",National Dex,NatDex,"{'dex_number': 232, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+238,Stantler,73,95,62,85,65,85,71.2,1.4,['Normal'],"['Frisk', 'Intimidate', 'Sap Sipper']",National Dex,NatDex,"{'dex_number': 234, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+239,Smeargle,55,20,35,20,45,75,58.0,1.2,['Normal'],"['Moody', 'Own Tempo', 'Technician']",National Dex,NatDex,"{'dex_number': 235, 'evos': [], 'alts': [], 'genfamily': ['GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+261,Beautifly,60,70,50,100,50,65,28.4,1.0,"['Bug', 'Flying']","['Rivalry', 'Swarm']",National Dex,NatDex,"{'dex_number': 267, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+268,Plusle,60,50,40,85,75,95,4.2,0.4,['Electric'],"['Lightning Rod', 'Plus']",National Dex,NatDex,"{'dex_number': 311, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+269,Minun,60,40,50,75,85,95,4.2,0.4,['Electric'],"['Minus', 'Volt Absorb']",National Dex,NatDex,"{'dex_number': 312, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+270,Kecleon,60,90,70,60,120,40,22.0,1.0,['Normal'],"['Color Change', 'Protean']",National Dex,NatDex,"{'dex_number': 352, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+277,Swellow,60,85,60,75,50,125,19.8,0.7,"['Normal', 'Flying']","['Guts', 'Scrappy']",National Dex,NatDex,"{'dex_number': 277, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+280,Masquerain,70,60,62,100,82,80,3.6,0.8,"['Bug', 'Flying']","['Intimidate', 'Unnerve']",National Dex,NatDex,"{'dex_number': 284, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+281,Delcatty,70,65,65,55,55,90,32.6,1.1,['Normal'],"['Cute Charm', 'Normalize', 'Wonder Skin']",National Dex,NatDex,"{'dex_number': 301, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+282,Volbeat,65,73,75,47,85,85,17.7,0.7,['Bug'],"['Illuminate', 'Prankster', 'Swarm']",National Dex,NatDex,"{'dex_number': 313, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+283,Illumise,65,47,75,73,85,85,17.7,0.6,['Bug'],"['Oblivious', 'Prankster', 'Tinted Lens']",National Dex,NatDex,"{'dex_number': 314, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+287,Castform,70,70,70,70,70,70,0.8,0.3,['Normal'],['Forecast'],National Dex,NatDex,"{'dex_number': 351, 'evos': [], 'alts': ['Castform-Snowy', 'Castform-Rainy', 'Castform-Sunny'], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+288,Chimecho,75,50,80,95,90,65,1.0,0.6,['Psychic'],['Levitate'],National Dex,NatDex,"{'dex_number': 358, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+292,Poochyena,35,55,35,30,30,35,13.6,0.5,['Dark'],"['Quick Feet', 'Rattled', 'Run Away']",National Dex,NatDex,"{'dex_number': 261, 'evos': ['Mightyena'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+293,Mightyena,70,90,70,60,60,70,37.0,1.0,['Dark'],"['Intimidate', 'Moxie', 'Quick Feet']",National Dex,NatDex,"{'dex_number': 262, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+296,Wurmple,45,45,35,20,30,20,3.6,0.3,['Bug'],"['Run Away', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 265, 'evos': ['Cascoon', 'Silcoon'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+297,Silcoon,50,35,55,25,25,15,10.0,0.6,['Bug'],['Shed Skin'],National Dex,NatDex,"{'dex_number': 266, 'evos': ['Beautifly'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+298,Cascoon,50,35,55,25,25,15,11.5,0.7,['Bug'],['Shed Skin'],National Dex,NatDex,"{'dex_number': 268, 'evos': ['Dustox'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+299,Dustox,60,50,70,50,90,65,31.6,1.2,"['Bug', 'Poison']","['Compound Eyes', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 269, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+306,Taillow,40,55,30,30,30,85,2.3,0.3,"['Normal', 'Flying']","['Guts', 'Scrappy']",National Dex,NatDex,"{'dex_number': 276, 'evos': ['Swellow'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+307,Surskit,40,30,32,50,52,65,1.7,0.5,"['Bug', 'Water']","['Rain Dish', 'Swift Swim']",National Dex,NatDex,"{'dex_number': 283, 'evos': ['Masquerain'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+308,Shroomish,60,40,60,40,60,35,4.5,0.4,['Grass'],"['Effect Spore', 'Poison Heal', 'Quick Feet']",National Dex,NatDex,"{'dex_number': 285, 'evos': ['Breloom'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+309,Breloom,60,130,80,60,60,70,39.2,1.2,"['Grass', 'Fighting']","['Effect Spore', 'Poison Heal', 'Technician']",National Dex,NatDex,"{'dex_number': 286, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+310,Slakoth,60,60,60,35,35,30,24.0,0.8,['Normal'],['Truant'],National Dex,NatDex,"{'dex_number': 287, 'evos': ['Vigoroth'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+311,Vigoroth,80,80,80,55,55,90,46.5,1.4,['Normal'],['Vital Spirit'],National Dex,NatDex,"{'dex_number': 288, 'evos': ['Slaking'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+312,Slaking,150,160,100,95,65,100,130.5,2.0,['Normal'],['Truant'],National Dex,NatDex,"{'dex_number': 289, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+318,Makuhita,72,60,30,20,30,25,86.4,1.0,['Fighting'],"['Guts', 'Sheer Force', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 296, 'evos': ['Hariyama'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+319,Hariyama,144,120,60,40,60,50,253.8,2.3,['Fighting'],"['Guts', 'Sheer Force', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 297, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+320,Nosepass,30,45,135,45,90,30,97.0,1.0,['Rock'],"['Magnet Pull', 'Sand Force', 'Sturdy']",National Dex,NatDex,"{'dex_number': 299, 'evos': ['Probopass'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+321,Skitty,50,45,45,35,35,50,11.0,0.6,['Normal'],"['Cute Charm', 'Normalize', 'Wonder Skin']",National Dex,NatDex,"{'dex_number': 300, 'evos': ['Delcatty'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+326,Meditite,30,40,55,40,55,60,11.2,0.6,"['Fighting', 'Psychic']","['Pure Power', 'Telepathy']",National Dex,NatDex,"{'dex_number': 307, 'evos': ['Medicham'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+327,Medicham,60,60,75,60,75,80,31.5,1.3,"['Fighting', 'Psychic']","['Pure Power', 'Telepathy']",National Dex,NatDex,"{'dex_number': 308, 'evos': [], 'alts': ['Medicham-Mega'], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+331,Gulpin,70,43,53,43,53,40,10.3,0.4,['Poison'],"['Gluttony', 'Liquid Ooze', 'Sticky Hold']",National Dex,NatDex,"{'dex_number': 316, 'evos': ['Swalot'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+332,Swalot,100,73,83,73,83,55,80.0,1.7,['Poison'],"['Gluttony', 'Liquid Ooze', 'Sticky Hold']",National Dex,NatDex,"{'dex_number': 317, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+337,Numel,60,60,40,65,45,35,24.0,0.7,"['Fire', 'Ground']","['Oblivious', 'Own Tempo', 'Simple']",National Dex,NatDex,"{'dex_number': 322, 'evos': ['Camerupt'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+338,Camerupt,70,100,70,105,75,40,220.0,1.9,"['Fire', 'Ground']","['Anger Point', 'Magma Armor', 'Solid Rock']",National Dex,NatDex,"{'dex_number': 323, 'evos': [], 'alts': ['Camerupt-Mega'], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+339,Spoink,60,25,35,70,80,60,30.6,0.7,['Psychic'],"['Gluttony', 'Own Tempo', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 325, 'evos': ['Grumpig'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+340,Grumpig,80,45,65,90,110,80,71.5,0.9,['Psychic'],"['Gluttony', 'Own Tempo', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 326, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+341,Spinda,60,60,60,60,60,60,5.0,1.1,['Normal'],"['Contrary', 'Own Tempo', 'Tangled Feet']",National Dex,NatDex,"{'dex_number': 327, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+342,Cacnea,50,85,40,85,40,35,51.3,0.4,['Grass'],"['Sand Veil', 'Water Absorb']",National Dex,NatDex,"{'dex_number': 331, 'evos': ['Cacturne'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+343,Cacturne,70,115,60,115,60,55,77.4,1.3,"['Grass', 'Dark']","['Sand Veil', 'Water Absorb']",National Dex,NatDex,"{'dex_number': 332, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+346,Zangoose,73,115,60,60,60,90,40.3,1.3,['Normal'],"['Immunity', 'Toxic Boost']",National Dex,NatDex,"{'dex_number': 335, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+347,Seviper,73,100,60,100,60,65,52.5,2.7,['Poison'],"['Infiltrator', 'Shed Skin']",National Dex,NatDex,"{'dex_number': 336, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+358,Shuppet,44,75,35,63,33,45,2.3,0.6,['Ghost'],"['Cursed Body', 'Frisk', 'Insomnia']",National Dex,NatDex,"{'dex_number': 353, 'evos': ['Banette'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+359,Banette,64,115,65,83,63,65,12.5,1.1,['Ghost'],"['Cursed Body', 'Frisk', 'Insomnia']",National Dex,NatDex,"{'dex_number': 354, 'evos': [], 'alts': ['Banette-Mega'], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+360,Tropius,99,68,83,72,87,51,100.0,2.0,"['Grass', 'Flying']","['Chlorophyll', 'Harvest', 'Solar Power']",National Dex,NatDex,"{'dex_number': 357, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+368,Clamperl,35,64,85,74,55,32,52.5,0.4,['Water'],"['Rattled', 'Shell Armor']",National Dex,NatDex,"{'dex_number': 366, 'evos': ['Gorebyss', 'Huntail'], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+369,Huntail,55,104,105,94,75,52,27.0,1.7,['Water'],"['Swift Swim', 'Water Veil']",National Dex,NatDex,"{'dex_number': 367, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+370,Gorebyss,55,84,105,114,75,52,22.6,1.8,['Water'],"['Hydration', 'Swift Swim']",National Dex,NatDex,"{'dex_number': 368, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+372,Luvdisc,43,30,55,40,65,97,8.7,0.6,['Water'],"['Hydration', 'Swift Swim']",National Dex,NatDex,"{'dex_number': 370, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+385,Deoxys,50,150,50,150,50,150,60.8,1.7,['Psychic'],['Pressure'],National Dex,NatDex,"{'dex_number': 386, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+386,Deoxys-Attack,50,180,20,180,20,150,60.8,1.7,['Psychic'],['Pressure'],National Dex,NatDex,"{'dex_number': 386, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+387,Deoxys-Defense,50,70,160,70,160,90,60.8,1.7,['Psychic'],['Pressure'],National Dex,NatDex,"{'dex_number': 386, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+388,Deoxys-Speed,50,95,90,95,90,180,60.8,1.7,['Psychic'],['Pressure'],National Dex,NatDex,"{'dex_number': 386, 'evos': [], 'alts': [], 'genfamily': ['RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
+394,Turtwig,55,68,64,45,55,31,10.2,0.4,['Grass'],"['Overgrow', 'Shell Armor']",National Dex,NatDex,"{'dex_number': 387, 'evos': ['Grotle'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+395,Grotle,75,89,85,55,65,36,97.0,1.1,['Grass'],"['Overgrow', 'Shell Armor']",National Dex,NatDex,"{'dex_number': 388, 'evos': ['Torterra'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+396,Torterra,95,109,105,75,85,56,310.0,2.2,"['Grass', 'Ground']","['Overgrow', 'Shell Armor']",National Dex,NatDex,"{'dex_number': 389, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+397,Chimchar,44,58,44,58,44,61,6.2,0.5,['Fire'],"['Blaze', 'Iron Fist']",National Dex,NatDex,"{'dex_number': 390, 'evos': ['Monferno'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+398,Monferno,64,78,52,78,52,81,22.0,0.9,"['Fire', 'Fighting']","['Blaze', 'Iron Fist']",National Dex,NatDex,"{'dex_number': 391, 'evos': ['Infernape'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+399,Infernape,76,104,71,104,71,108,55.0,1.2,"['Fire', 'Fighting']","['Blaze', 'Iron Fist']",National Dex,NatDex,"{'dex_number': 392, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+400,Piplup,53,51,53,61,56,40,5.2,0.4,['Water'],"['Defiant', 'Torrent']",National Dex,NatDex,"{'dex_number': 393, 'evos': ['Prinplup'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+401,Prinplup,64,66,68,81,76,50,23.0,0.8,['Water'],"['Defiant', 'Torrent']",National Dex,NatDex,"{'dex_number': 394, 'evos': ['Empoleon'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+402,Empoleon,84,86,88,111,101,60,84.5,1.7,"['Water', 'Steel']","['Defiant', 'Torrent']",National Dex,NatDex,"{'dex_number': 395, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+403,Starly,40,55,30,30,30,60,2.0,0.3,"['Normal', 'Flying']","['Keen Eye', 'Reckless']",National Dex,NatDex,"{'dex_number': 396, 'evos': ['Staravia'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+404,Staraptor,85,120,70,50,60,100,24.9,1.2,"['Normal', 'Flying']","['Intimidate', 'Reckless']",National Dex,NatDex,"{'dex_number': 398, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+409,Burmy,40,29,45,29,45,36,3.4,0.2,['Bug'],"['Overcoat', 'Shed Skin']",National Dex,NatDex,"{'dex_number': 412, 'evos': ['Mothim', 'Wormadam', 'Wormadam-Sandy', 'Wormadam-Trash'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+410,Wormadam,60,59,85,79,105,36,6.5,0.5,"['Bug', 'Grass']","['Anticipation', 'Overcoat']",National Dex,NatDex,"{'dex_number': 413, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+411,Wormadam-Sandy,60,79,105,59,85,36,6.5,0.5,"['Bug', 'Ground']","['Anticipation', 'Overcoat']",National Dex,NatDex,"{'dex_number': 413, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+412,Wormadam-Trash,60,69,95,69,95,36,6.5,0.5,"['Bug', 'Steel']","['Anticipation', 'Overcoat']",National Dex,NatDex,"{'dex_number': 413, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+414,Arceus,120,120,120,120,120,120,320.0,3.2,['Normal'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+415,Arceus-Bug,120,120,120,120,120,120,320.0,3.2,['Bug'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+416,Arceus-Dark,120,120,120,120,120,120,320.0,3.2,['Dark'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+417,Arceus-Dragon,120,120,120,120,120,120,320.0,3.2,['Dragon'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+418,Arceus-Electric,120,120,120,120,120,120,320.0,3.2,['Electric'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+419,Arceus-Fighting,120,120,120,120,120,120,320.0,3.2,['Fighting'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+420,Arceus-Fire,120,120,120,120,120,120,320.0,3.2,['Fire'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+421,Arceus-Flying,120,120,120,120,120,120,320.0,3.2,['Flying'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+422,Arceus-Ghost,120,120,120,120,120,120,320.0,3.2,['Ghost'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+423,Arceus-Grass,120,120,120,120,120,120,320.0,3.2,['Grass'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+424,Arceus-Ground,120,120,120,120,120,120,320.0,3.2,['Ground'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+425,Arceus-Ice,120,120,120,120,120,120,320.0,3.2,['Ice'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+426,Arceus-Poison,120,120,120,120,120,120,320.0,3.2,['Poison'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+427,Arceus-Psychic,120,120,120,120,120,120,320.0,3.2,['Psychic'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+428,Arceus-Rock,120,120,120,120,120,120,320.0,3.2,['Rock'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+429,Arceus-Steel,120,120,120,120,120,120,320.0,3.2,['Steel'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+430,Arceus-Water,120,120,120,120,120,120,320.0,3.2,['Water'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+447,Staravia,55,75,50,40,40,80,15.5,0.6,"['Normal', 'Flying']","['Intimidate', 'Reckless']",National Dex,NatDex,"{'dex_number': 397, 'evos': ['Staraptor'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+448,Bidoof,59,45,40,35,40,31,20.0,0.5,['Normal'],"['Moody', 'Simple', 'Unaware']",National Dex,NatDex,"{'dex_number': 399, 'evos': ['Bibarel'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+449,Bibarel,79,85,60,55,60,71,31.5,1.0,"['Normal', 'Water']","['Moody', 'Simple', 'Unaware']",National Dex,NatDex,"{'dex_number': 400, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+450,Kricketot,37,25,41,25,41,25,2.2,0.3,['Bug'],"['Run Away', 'Shed Skin']",National Dex,NatDex,"{'dex_number': 401, 'evos': ['Kricketune'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+451,Kricketune,77,85,51,55,51,65,25.5,1.0,['Bug'],"['Swarm', 'Technician']",National Dex,NatDex,"{'dex_number': 402, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+456,Cranidos,67,125,40,30,30,58,31.5,0.9,['Rock'],"['Mold Breaker', 'Sheer Force']",National Dex,NatDex,"{'dex_number': 408, 'evos': ['Rampardos'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+457,Rampardos,97,165,60,65,50,58,102.5,1.6,['Rock'],"['Mold Breaker', 'Sheer Force']",National Dex,NatDex,"{'dex_number': 409, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+458,Shieldon,30,42,118,42,88,30,57.0,0.5,"['Rock', 'Steel']","['Soundproof', 'Sturdy']",National Dex,NatDex,"{'dex_number': 410, 'evos': ['Bastiodon'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+459,Bastiodon,60,52,168,47,138,30,149.5,1.3,"['Rock', 'Steel']","['Soundproof', 'Sturdy']",National Dex,NatDex,"{'dex_number': 411, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+460,Mothim,70,94,50,94,50,66,23.3,0.9,"['Bug', 'Flying']","['Swarm', 'Tinted Lens']",National Dex,NatDex,"{'dex_number': 414, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+463,Pachirisu,60,45,70,45,90,95,3.9,0.4,['Electric'],"['Pickup', 'Run Away', 'Volt Absorb']",National Dex,NatDex,"{'dex_number': 417, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+464,Buizel,55,65,35,60,30,85,29.5,0.7,['Water'],"['Swift Swim', 'Water Veil']",National Dex,NatDex,"{'dex_number': 418, 'evos': ['Floatzel'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+465,Floatzel,85,105,55,85,50,115,33.5,1.1,['Water'],"['Swift Swim', 'Water Veil']",National Dex,NatDex,"{'dex_number': 419, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+469,Ambipom,75,100,66,60,66,115,20.3,1.2,['Normal'],"['Pickup', 'Skill Link', 'Technician']",National Dex,NatDex,"{'dex_number': 424, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+474,Mismagius,60,60,60,105,105,105,4.4,0.9,['Ghost'],['Levitate'],National Dex,NatDex,"{'dex_number': 429, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+475,Honchkrow,100,125,52,105,52,71,27.3,0.9,"['Dark', 'Flying']","['Insomnia', 'Moxie', 'Super Luck']",National Dex,NatDex,"{'dex_number': 430, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+476,Glameow,49,55,42,42,37,85,3.9,0.5,['Normal'],"['Keen Eye', 'Limber', 'Own Tempo']",National Dex,NatDex,"{'dex_number': 431, 'evos': ['Purugly'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+477,Purugly,71,82,64,64,59,112,43.8,1.0,['Normal'],"['Defiant', 'Own Tempo', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 432, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+478,Chingling,45,30,50,65,50,45,0.6,0.2,['Psychic'],['Levitate'],National Dex,NatDex,"{'dex_number': 433, 'evos': ['Chimecho'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+485,Chatot,76,65,45,92,42,91,1.9,0.5,"['Normal', 'Flying']","['Big Pecks', 'Keen Eye', 'Tangled Feet']",National Dex,NatDex,"{'dex_number': 441, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+499,Carnivine,74,100,72,90,72,46,27.0,1.4,['Grass'],['Levitate'],National Dex,NatDex,"{'dex_number': 455, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+500,Finneon,49,49,56,49,61,66,7.0,0.4,['Water'],"['Storm Drain', 'Swift Swim', 'Water Veil']",National Dex,NatDex,"{'dex_number': 456, 'evos': ['Lumineon'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+501,Lumineon,69,69,76,69,86,91,24.0,1.2,['Water'],"['Storm Drain', 'Swift Swim', 'Water Veil']",National Dex,NatDex,"{'dex_number': 457, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+511,Yanmega,86,76,86,116,56,95,51.5,1.9,"['Bug', 'Flying']","['Frisk', 'Speed Boost', 'Tinted Lens']",National Dex,NatDex,"{'dex_number': 469, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+512,Gliscor,75,95,125,45,75,95,42.5,2.0,"['Ground', 'Flying']","['Hyper Cutter', 'Poison Heal', 'Sand Veil']",National Dex,NatDex,"{'dex_number': 472, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+515,Probopass,60,55,145,75,150,40,340.0,1.4,"['Rock', 'Steel']","['Magnet Pull', 'Sand Force', 'Sturdy']",National Dex,NatDex,"{'dex_number': 476, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+527,Phione,80,80,80,80,80,80,3.1,0.4,['Water'],['Hydration'],National Dex,NatDex,"{'dex_number': 489, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+528,Manaphy,100,100,100,100,100,100,1.4,0.3,['Water'],['Hydration'],National Dex,NatDex,"{'dex_number': 490, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+529,Darkrai,70,90,90,135,90,125,50.5,1.5,['Dark'],['Bad Dreams'],National Dex,NatDex,"{'dex_number': 491, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+530,Shaymin,100,100,100,100,100,100,2.1,0.2,['Grass'],['Natural Cure'],National Dex,NatDex,"{'dex_number': 492, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+531,Shaymin-Sky,100,103,75,120,75,127,5.2,0.4,"['Grass', 'Flying']",['Serene Grace'],National Dex,NatDex,"{'dex_number': 492, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+540,Snivy,45,45,55,45,55,63,8.1,0.6,['Grass'],"['Contrary', 'Overgrow']",National Dex,NatDex,"{'dex_number': 495, 'evos': ['Servine'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+541,Servine,60,60,75,60,75,83,16.0,0.8,['Grass'],"['Contrary', 'Overgrow']",National Dex,NatDex,"{'dex_number': 496, 'evos': ['Serperior'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+542,Serperior,75,75,95,75,95,113,63.0,3.3,['Grass'],"['Contrary', 'Overgrow']",National Dex,NatDex,"{'dex_number': 497, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+543,Tepig,65,63,45,45,45,45,9.9,0.5,['Fire'],"['Blaze', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 498, 'evos': ['Pignite'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+544,Pignite,90,93,55,70,55,55,55.5,1.0,"['Fire', 'Fighting']","['Blaze', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 499, 'evos': ['Emboar'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+545,Emboar,110,123,65,100,65,65,150.0,1.6,"['Fire', 'Fighting']","['Blaze', 'Reckless']",National Dex,NatDex,"{'dex_number': 500, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+546,Oshawott,55,55,45,63,45,45,5.9,0.5,['Water'],"['Shell Armor', 'Torrent']",National Dex,NatDex,"{'dex_number': 501, 'evos': ['Dewott'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+547,Dewott,75,75,60,83,60,60,24.5,0.8,['Water'],"['Shell Armor', 'Torrent']",National Dex,NatDex,"{'dex_number': 502, 'evos': ['Samurott'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+548,Samurott,95,100,85,108,70,70,94.6,1.5,['Water'],"['Shell Armor', 'Torrent']",National Dex,NatDex,"{'dex_number': 503, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+553,Leavanny,75,103,80,70,80,92,20.5,1.2,"['Bug', 'Grass']","['Chlorophyll', 'Overcoat', 'Swarm']",National Dex,NatDex,"{'dex_number': 542, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+578,Deerling,60,60,50,40,50,75,19.5,0.6,"['Normal', 'Grass']","['Chlorophyll', 'Sap Sipper', 'Serene Grace']",National Dex,NatDex,"{'dex_number': 585, 'evos': ['Sawsbuck'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+586,Patrat,45,55,39,35,39,42,11.6,0.5,['Normal'],"['Analytic', 'Keen Eye', 'Run Away']",National Dex,NatDex,"{'dex_number': 504, 'evos': ['Watchog'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+587,Watchog,60,85,69,60,69,77,27.0,1.1,['Normal'],"['Analytic', 'Illuminate', 'Keen Eye']",National Dex,NatDex,"{'dex_number': 505, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+592,Pansage,50,53,48,53,48,64,10.5,0.6,['Grass'],"['Gluttony', 'Overgrow']",National Dex,NatDex,"{'dex_number': 511, 'evos': ['Simisage'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+593,Simisage,75,98,63,98,63,101,30.5,1.1,['Grass'],"['Gluttony', 'Overgrow']",National Dex,NatDex,"{'dex_number': 512, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+594,Pansear,50,53,48,53,48,64,11.0,0.6,['Fire'],"['Blaze', 'Gluttony']",National Dex,NatDex,"{'dex_number': 513, 'evos': ['Simisear'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+595,Simisear,75,98,63,98,63,101,28.0,1.0,['Fire'],"['Blaze', 'Gluttony']",National Dex,NatDex,"{'dex_number': 514, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+596,Panpour,50,53,48,53,48,64,13.5,0.6,['Water'],"['Gluttony', 'Torrent']",National Dex,NatDex,"{'dex_number': 515, 'evos': ['Simipour'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+597,Simipour,75,98,63,98,63,101,29.0,1.0,['Water'],"['Gluttony', 'Torrent']",National Dex,NatDex,"{'dex_number': 516, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+602,Blitzle,45,60,32,50,32,76,29.8,0.8,['Electric'],"['Lightning Rod', 'Motor Drive', 'Sap Sipper']",National Dex,NatDex,"{'dex_number': 522, 'evos': ['Zebstrika'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+603,Zebstrika,75,100,63,80,63,116,79.5,1.6,['Electric'],"['Lightning Rod', 'Motor Drive', 'Sap Sipper']",National Dex,NatDex,"{'dex_number': 523, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+615,Sewaddle,45,53,70,40,60,42,2.5,0.3,"['Bug', 'Grass']","['Chlorophyll', 'Overcoat', 'Swarm']",National Dex,NatDex,"{'dex_number': 540, 'evos': ['Swadloon'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+616,Swadloon,55,63,90,50,80,42,7.3,0.5,"['Bug', 'Grass']","['Chlorophyll', 'Leaf Guard', 'Overcoat']",National Dex,NatDex,"{'dex_number': 541, 'evos': ['Leavanny'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+645,Ducklett,62,44,50,44,50,55,5.5,0.5,"['Water', 'Flying']","['Big Pecks', 'Hydration', 'Keen Eye']",National Dex,NatDex,"{'dex_number': 580, 'evos': ['Swanna'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+646,Swanna,75,87,63,87,63,98,24.2,1.3,"['Water', 'Flying']","['Big Pecks', 'Hydration', 'Keen Eye']",National Dex,NatDex,"{'dex_number': 581, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+647,Sawsbuck,80,100,70,60,70,95,92.5,1.9,"['Normal', 'Grass']","['Chlorophyll', 'Sap Sipper', 'Serene Grace']",National Dex,NatDex,"{'dex_number': 586, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+655,Alomomola,165,75,80,40,45,65,31.6,1.2,['Water'],"['Healer', 'Hydration', 'Regenerator']",National Dex,NatDex,"{'dex_number': 594, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+661,Tynamo,35,55,40,45,40,60,0.3,0.2,['Electric'],['Levitate'],National Dex,NatDex,"{'dex_number': 602, 'evos': ['Eelektrik'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+662,Eelektrik,65,85,70,75,70,40,22.0,1.2,['Electric'],['Levitate'],National Dex,NatDex,"{'dex_number': 603, 'evos': ['Eelektross'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+663,Eelektross,85,115,80,105,80,50,80.5,2.1,['Electric'],['Levitate'],National Dex,NatDex,"{'dex_number': 604, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+704,Meloetta,100,77,77,128,128,90,6.5,0.6,"['Normal', 'Psychic']",['Serene Grace'],National Dex,NatDex,"{'dex_number': 648, 'evos': [], 'alts': ['Meloetta-Pirouette'], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+719,Arceus-Fairy,120,120,120,120,120,120,320.0,3.2,['Fairy'],['Multitype'],National Dex,NatDex,"{'dex_number': 493, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+720,Greninja,72,95,67,103,71,122,40.0,1.5,"['Water', 'Dark']","['Battle Bond', 'Protean', 'Torrent']",National Dex,NatDex,"{'dex_number': 658, 'evos': [], 'alts': ['Greninja-Ash'], 'genfamily': ['XY', 'SM', 'SS']}"
+721,Vivillon,80,52,50,90,50,89,17.0,1.2,"['Bug', 'Flying']","['Compound Eyes', 'Friend Guard', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 666, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+735,Chespin,56,61,65,48,45,38,9.0,0.4,['Grass'],"['Bulletproof', 'Overgrow']",National Dex,NatDex,"{'dex_number': 650, 'evos': ['Quilladin'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+736,Quilladin,61,78,95,56,58,57,29.0,0.7,['Grass'],"['Bulletproof', 'Overgrow']",National Dex,NatDex,"{'dex_number': 651, 'evos': ['Chesnaught'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+737,Chesnaught,88,107,122,74,75,64,90.0,1.6,"['Grass', 'Fighting']","['Bulletproof', 'Overgrow']",National Dex,NatDex,"{'dex_number': 652, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+738,Fennekin,40,45,40,62,60,60,9.4,0.4,['Fire'],"['Blaze', 'Magician']",National Dex,NatDex,"{'dex_number': 653, 'evos': ['Braixen'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+739,Braixen,59,59,58,90,70,73,14.5,1.0,['Fire'],"['Blaze', 'Magician']",National Dex,NatDex,"{'dex_number': 654, 'evos': ['Delphox'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+740,Delphox,75,69,72,114,100,104,39.0,1.5,"['Fire', 'Psychic']","['Blaze', 'Magician']",National Dex,NatDex,"{'dex_number': 655, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+741,Froakie,41,56,40,62,44,71,7.0,0.3,['Water'],"['Protean', 'Torrent']",National Dex,NatDex,"{'dex_number': 656, 'evos': ['Frogadier'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+742,Frogadier,54,63,52,83,56,97,10.9,0.6,['Water'],"['Protean', 'Torrent']",National Dex,NatDex,"{'dex_number': 657, 'evos': ['Greninja'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+748,Scatterbug,38,35,40,27,25,35,2.5,0.3,['Bug'],"['Compound Eyes', 'Friend Guard', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 664, 'evos': ['Spewpa'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+749,Spewpa,45,22,60,27,30,29,8.4,0.3,['Bug'],"['Friend Guard', 'Shed Skin']",National Dex,NatDex,"{'dex_number': 665, 'evos': ['Vivillon'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+750,Vivillon-Fancy,80,52,50,90,50,89,17.0,1.2,"['Bug', 'Flying']","['Compound Eyes', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 666, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+751,Vivillon-Pokeball,80,52,50,90,50,89,17.0,1.2,"['Bug', 'Flying']","['Compound Eyes', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 666, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+752,Litleo,62,50,58,73,54,72,13.5,0.6,"['Fire', 'Normal']","['Moxie', 'Rivalry', 'Unnerve']",National Dex,NatDex,"{'dex_number': 667, 'evos': ['Pyroar'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+753,Pyroar,86,68,72,109,66,106,81.5,1.5,"['Fire', 'Normal']","['Moxie', 'Rivalry', 'Unnerve']",National Dex,NatDex,"{'dex_number': 668, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+754,Flabebe,44,38,39,61,79,42,0.1,0.1,['Fairy'],"['Flower Veil', 'Symbiosis']",National Dex,NatDex,"{'dex_number': 669, 'evos': ['Floette'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+755,Floette,54,45,47,75,98,52,0.9,0.2,['Fairy'],"['Flower Veil', 'Symbiosis']",National Dex,NatDex,"{'dex_number': 670, 'evos': ['Florges'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+756,Florges,78,65,68,112,154,75,10.0,1.1,['Fairy'],"['Flower Veil', 'Symbiosis']",National Dex,NatDex,"{'dex_number': 671, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+757,Skiddo,66,65,48,62,57,52,31.0,0.9,['Grass'],"['Grass Pelt', 'Sap Sipper']",National Dex,NatDex,"{'dex_number': 672, 'evos': ['Gogoat'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+758,Gogoat,123,100,62,97,81,68,91.0,1.7,['Grass'],"['Grass Pelt', 'Sap Sipper']",National Dex,NatDex,"{'dex_number': 673, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+761,Furfrou,75,80,60,65,90,102,28.0,1.2,['Normal'],['Fur Coat'],National Dex,NatDex,"{'dex_number': 676, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+800,Hoopa,80,110,60,150,130,70,9.0,0.5,"['Psychic', 'Ghost']",['Magician'],National Dex,NatDex,"{'dex_number': 720, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+801,Hoopa-Unbound,80,160,60,170,130,80,490.0,6.5,"['Psychic', 'Dark']",['Magician'],National Dex,NatDex,"{'dex_number': 720, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+828,Rattata-Alola,30,56,35,25,35,72,3.8,0.3,"['Dark', 'Normal']","['Gluttony', 'Hustle', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 19, 'evos': ['Raticate-Alola'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+829,Raticate-Alola,75,71,70,40,80,77,25.5,0.7,"['Dark', 'Normal']","['Gluttony', 'Hustle', 'Thick Fat']",National Dex,NatDex,"{'dex_number': 20, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+830,Raticate-Alola-Totem,75,71,70,40,80,77,105.0,1.4,"['Dark', 'Normal']",['Thick Fat'],National Dex,NatDex,"{'dex_number': 20, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+831,Pikachu-Starter,45,80,50,75,60,120,6.0,0.4,['Electric'],"['Lightning Rod', 'Static']",National Dex,NatDex,"{'dex_number': 25, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+841,Geodude-Alola,40,80,100,30,30,20,20.3,0.4,"['Rock', 'Electric']","['Galvanize', 'Magnet Pull', 'Sturdy']",National Dex,NatDex,"{'dex_number': 74, 'evos': ['Graveler-Alola'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+842,Graveler-Alola,55,95,115,45,45,35,110.0,1.0,"['Rock', 'Electric']","['Galvanize', 'Magnet Pull', 'Sturdy']",National Dex,NatDex,"{'dex_number': 75, 'evos': ['Golem-Alola'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+843,Golem-Alola,80,120,130,55,65,45,316.0,1.7,"['Rock', 'Electric']","['Galvanize', 'Magnet Pull', 'Sturdy']",National Dex,NatDex,"{'dex_number': 76, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+844,Grimer-Alola,80,80,50,40,50,25,42.0,0.7,"['Poison', 'Dark']","['Gluttony', 'Poison Touch', 'Power of Alchemy']",National Dex,NatDex,"{'dex_number': 88, 'evos': ['Muk-Alola'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+845,Muk-Alola,105,105,75,65,100,50,52.0,1.0,"['Poison', 'Dark']","['Gluttony', 'Poison Touch', 'Power of Alchemy']",National Dex,NatDex,"{'dex_number': 89, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+848,Marowak-Alola-Totem,60,80,110,50,80,45,98.0,1.7,"['Fire', 'Ghost']",['Rock Head'],National Dex,NatDex,"{'dex_number': 105, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+849,Eevee-Starter,65,75,70,65,85,75,6.5,0.3,['Normal'],"['Adaptability', 'Anticipation', 'Run Away']",National Dex,NatDex,"{'dex_number': 133, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+860,Pikipek,35,75,30,30,30,65,1.2,0.3,"['Normal', 'Flying']","['Keen Eye', 'Pickup', 'Skill Link']",National Dex,NatDex,"{'dex_number': 731, 'evos': ['Trumbeak'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+861,Trumbeak,55,85,50,40,50,75,14.8,0.6,"['Normal', 'Flying']","['Keen Eye', 'Pickup', 'Skill Link']",National Dex,NatDex,"{'dex_number': 732, 'evos': ['Toucannon'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+862,Toucannon,80,120,75,75,75,60,26.0,1.1,"['Normal', 'Flying']","['Keen Eye', 'Sheer Force', 'Skill Link']",National Dex,NatDex,"{'dex_number': 733, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+863,Yungoos,48,70,30,30,30,45,6.0,0.4,['Normal'],"['Adaptability', 'Stakeout', 'Strong Jaw']",National Dex,NatDex,"{'dex_number': 734, 'evos': ['Gumshoos'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+864,Gumshoos,88,110,60,55,60,45,14.2,0.7,['Normal'],"['Adaptability', 'Stakeout', 'Strong Jaw']",National Dex,NatDex,"{'dex_number': 735, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+865,Gumshoos-Totem,88,110,60,55,60,45,60.0,1.4,['Normal'],['Adaptability'],National Dex,NatDex,"{'dex_number': 735, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+868,Vikavolt-Totem,77,70,90,145,75,43,147.5,2.6,"['Bug', 'Electric']",['Levitate'],National Dex,NatDex,"{'dex_number': 738, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+869,Crabrawler,47,82,57,42,47,63,7.0,0.6,['Fighting'],"['Anger Point', 'Hyper Cutter', 'Iron Fist']",National Dex,NatDex,"{'dex_number': 739, 'evos': ['Crabominable'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+870,Crabominable,97,132,77,62,67,43,180.0,1.7,"['Fighting', 'Ice']","['Anger Point', 'Hyper Cutter', 'Iron Fist']",National Dex,NatDex,"{'dex_number': 740, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+871,Oricorio,75,70,70,98,70,93,3.4,0.6,"['Fire', 'Flying']",['Dancer'],National Dex,NatDex,"{'dex_number': 741, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+872,Oricorio-Pom-Pom,75,70,70,98,70,93,3.4,0.6,"['Electric', 'Flying']",['Dancer'],National Dex,NatDex,"{'dex_number': 741, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+873,Oricorio-Pa'u,75,70,70,98,70,93,3.4,0.6,"['Psychic', 'Flying']",['Dancer'],National Dex,NatDex,"{'dex_number': 741, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+874,Oricorio-Sensu,75,70,70,98,70,93,3.4,0.6,"['Ghost', 'Flying']",['Dancer'],National Dex,NatDex,"{'dex_number': 741, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+877,Ribombee-Totem,60,55,60,95,70,124,2.0,0.4,"['Bug', 'Fairy']",['Sweet Veil'],National Dex,NatDex,"{'dex_number': 743, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+887,Araquanid-Totem,68,70,92,50,132,42,217.5,3.1,"['Water', 'Bug']",['Water Bubble'],National Dex,NatDex,"{'dex_number': 752, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+890,Lurantis-Totem,70,105,90,80,90,45,58.0,1.5,['Grass'],['Leaf Guard'],National Dex,NatDex,"{'dex_number': 754, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+895,Salazzle-Totem,68,64,60,111,60,117,81.0,2.1,"['Poison', 'Fire']",['Corrosion'],National Dex,NatDex,"{'dex_number': 758, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+928,Minior,60,100,60,100,60,120,0.3,0.3,"['Rock', 'Flying']",['Shields Down'],National Dex,NatDex,"{'dex_number': 774, 'evos': [], 'alts': ['Minior-Meteor'], 'genfamily': ['SM', 'SS']}"
+929,Komala,65,115,65,75,95,65,19.9,0.4,['Normal'],['Comatose'],National Dex,NatDex,"{'dex_number': 775, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+932,Togedemaru-Totem,65,98,63,40,73,96,13.0,0.6,"['Electric', 'Steel']",['Sturdy'],National Dex,NatDex,"{'dex_number': 777, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+934,Mimikyu-Totem,55,90,80,50,105,96,2.8,0.4,"['Ghost', 'Fairy']",['Disguise'],National Dex,NatDex,"{'dex_number': 778, 'evos': [], 'alts': ['Mimikyu-Busted-Totem'], 'genfamily': ['SM', 'SS']}"
+935,Bruxish,68,105,70,70,70,92,19.0,0.9,"['Water', 'Psychic']","['Dazzling', 'Strong Jaw', 'Wonder Skin']",National Dex,NatDex,"{'dex_number': 779, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+941,Kommo-o-Totem,75,110,125,100,105,85,207.5,2.4,"['Dragon', 'Fighting']",['Overcoat'],National Dex,NatDex,"{'dex_number': 784, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+431,Syclant,70,116,70,114,64,121,52.0,1.7,"['Ice', 'Bug']","['Compound Eyes', 'Ice Body', 'Mountaineer']",CAP,CAP,"{'dex_number': -2, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+432,Revenankh,90,105,90,65,110,65,44.0,1.8,"['Ghost', 'Fighting']","['Air Lock', 'Shed Skin', 'Triage']",CAP,CAP,"{'dex_number': -3, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+433,Pyroak,120,70,105,95,90,60,168.0,2.1,"['Fire', 'Grass']","['Battle Armor', 'Rock Head', 'White Smoke']",CAP,CAP,"{'dex_number': -6, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+434,Fidgit,95,76,109,90,80,105,53.0,0.9,"['Poison', 'Ground']","['Frisk', 'Persistent', 'Vital Spirit']",CAP,CAP,"{'dex_number': -8, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+435,Stratagem,90,60,65,120,70,130,45.0,0.9,['Rock'],"['Levitate', 'Sniper', 'Technician']",CAP,CAP,"{'dex_number': -11, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+436,Arghonaut,105,110,95,70,100,75,151.0,1.7,"['Water', 'Fighting']","['Technician', 'Unaware']",CAP,CAP,"{'dex_number': -13, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+437,Kitsunoh,80,103,85,55,80,110,51.0,1.1,"['Ghost', 'Steel']","['Frisk', 'Iron Fist', 'Limber']",CAP,CAP,"{'dex_number': -14, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+438,Cyclohm,108,60,118,112,70,80,59.0,1.6,"['Electric', 'Dragon']","['Damp', 'Shield Dust', 'Static']",CAP,CAP,"{'dex_number': -15, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+439,Colossoil,133,122,72,71,72,95,683.6,2.6,"['Dark', 'Ground']","['Guts', 'Rebound', 'Unnerve']",CAP,CAP,"{'dex_number': -16, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+440,Krilowatt,151,84,73,83,74,105,10.6,0.7,"['Electric', 'Water']","['Magic Guard', 'Minus', 'Trace']",CAP,CAP,"{'dex_number': -17, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+441,Voodoom,90,85,80,130,80,110,75.5,2.0,"['Fighting', 'Dark']","['Cursed Body', 'Lightning Rod', 'Volt Absorb']",CAP,CAP,"{'dex_number': -19, 'evos': [], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+532,Syclar,40,76,45,74,39,91,4.0,0.2,"['Ice', 'Bug']","['Compound Eyes', 'Ice Body', 'Snow Cloak']",,CAP,"{'dex_number': -1, 'evos': ['Syclant'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+533,Embirch,60,40,55,65,40,60,15.0,0.6,"['Fire', 'Grass']","['Chlorophyll', 'Leaf Guard', 'Reckless']",,CAP,"{'dex_number': -4, 'evos': ['Flarelm'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+534,Flarelm,90,50,95,75,70,40,73.0,1.4,"['Fire', 'Grass']","['Battle Armor', 'Rock Head', 'White Smoke']",,CAP,"{'dex_number': -5, 'evos': ['Pyroak'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+535,Breezi,50,46,69,60,50,75,0.6,0.4,"['Poison', 'Flying']","['Frisk', 'Own Tempo', 'Unburden']",,CAP,"{'dex_number': -7, 'evos': ['Fidgit'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+536,Rebble,45,25,65,75,55,80,7.0,0.3,['Rock'],"['Levitate', 'Sniper', 'Solid Rock']",,CAP,"{'dex_number': -9, 'evos': ['Tactite'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+537,Tactite,70,40,65,100,65,95,16.0,0.6,['Rock'],"['Levitate', 'Sniper', 'Technician']",,CAP,"{'dex_number': -10, 'evos': ['Stratagem'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+538,Privatyke,65,75,65,40,60,45,35.0,1.0,"['Water', 'Fighting']","['Technician', 'Unaware']",,CAP,"{'dex_number': -12, 'evos': ['Arghonaut'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+539,Voodoll,55,40,55,75,50,70,25.0,1.0,"['Normal', 'Dark']","['Cursed Body', 'Lightning Rod', 'Volt Absorb']",,CAP,"{'dex_number': -18, 'evos': ['Voodoom'], 'alts': [], 'genfamily': ['DP', 'BW', 'XY', 'SM', 'SS']}"
+582,Necturna,64,120,100,85,120,58,49.6,1.65,"['Grass', 'Ghost']","['Forewarn', 'Telepathy']",CAP,CAP,"{'dex_number': -23, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+583,Aurumoth,110,120,99,117,60,94,193.0,2.1,"['Bug', 'Psychic']","['Light Metal', 'No Guard', 'Weak Armor']",CAP,CAP,"{'dex_number': -27, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+584,Malaconda,115,100,60,40,130,55,108.8,5.5,"['Dark', 'Grass']","['Drought', 'Harvest', 'Infiltrator']",CAP,CAP,"{'dex_number': -29, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+710,Scratchet,55,85,80,20,70,40,20.0,0.5,"['Normal', 'Fighting']","['Prankster', 'Scrappy', 'Vital Spirit']",,CAP,"{'dex_number': -20, 'evos': ['Tomohawk'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+711,Tomohawk,105,60,90,115,80,85,37.2,1.27,"['Flying', 'Fighting']","['Intimidate', 'Justified', 'Prankster']",CAP,CAP,"{'dex_number': -21, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+712,Necturine,49,55,60,50,75,51,1.8,0.3,"['Grass', 'Ghost']","['Anticipation', 'Telepathy']",,CAP,"{'dex_number': -22, 'evos': ['Necturna'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+713,Mollux,95,45,83,131,105,76,41.0,1.2,"['Fire', 'Poison']","['Dry Skin', 'Illuminate']",CAP,CAP,"{'dex_number': -24, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+714,Cupra,50,60,49,67,30,44,4.8,0.5,"['Bug', 'Psychic']","['Keen Eye', 'Magic Guard', 'Shield Dust']",,CAP,"{'dex_number': -25, 'evos': ['Argalis'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+715,Argalis,60,90,89,87,40,54,341.4,1.3,"['Bug', 'Psychic']","['Compound Eyes', 'Overcoat', 'Shed Skin']",,CAP,"{'dex_number': -26, 'evos': ['Aurumoth'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+716,Brattler,80,70,40,20,90,30,11.5,1.8,"['Dark', 'Grass']","['Harvest', 'Infiltrator', 'Rattled']",,CAP,"{'dex_number': -28, 'evos': ['Malaconda'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+717,Cawdet,35,72,85,40,55,88,25.0,0.76,"['Steel', 'Flying']","['Big Pecks', 'Keen Eye', 'Volt Absorb']",,CAP,"{'dex_number': -30, 'evos': ['Cawmodore'], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+718,Cawmodore,50,92,130,65,75,118,37.0,1.7,"['Steel', 'Flying']","['Big Pecks', 'Intimidate', 'Volt Absorb']",CAP,CAP,"{'dex_number': -31, 'evos': [], 'alts': [], 'genfamily': ['BW', 'XY', 'SM', 'SS']}"
+724,Naviathan,103,110,90,95,65,97,510.0,3.0,"['Water', 'Steel']","['Guts', 'Heatproof', 'Light Metal']",CAP,CAP,"{'dex_number': -38, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+803,Volkritter,60,30,50,80,60,70,15.0,0.3,"['Water', 'Fire']","['Anticipation', 'Infiltrator', 'Unnerve']",,CAP,"{'dex_number': -32, 'evos': ['Volkraken'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+804,Volkraken,100,45,80,135,100,95,44.5,1.3,"['Water', 'Fire']","['Analytic', 'Infiltrator', 'Pressure']",CAP,CAP,"{'dex_number': -33, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+805,Snugglow,40,37,79,91,68,70,6.0,1.2,"['Electric', 'Poison']","['Storm Drain', 'Telepathy', 'Vital Spirit']",,CAP,"{'dex_number': -34, 'evos': ['Plasmanta'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+806,Plasmanta,60,57,119,131,98,100,460.0,7.0,"['Electric', 'Poison']","['Storm Drain', 'Telepathy', 'Vital Spirit']",CAP,CAP,"{'dex_number': -35, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+807,Floatoy,48,70,40,70,30,77,1.9,0.8,['Water'],"['Heatproof', 'Swift Swim', 'Water Veil']",,CAP,"{'dex_number': -36, 'evos': ['Caimanoe'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+808,Caimanoe,73,85,65,80,40,87,72.5,1.4,"['Water', 'Steel']","['Heatproof', 'Light Metal', 'Water Veil']",,CAP,"{'dex_number': -37, 'evos': ['Naviathan'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+809,Crucibelle,106,105,65,75,85,104,23.6,1.3,"['Rock', 'Poison']","['Liquid Ooze', 'Mold Breaker', 'Regenerator']",CAP,CAP,"{'dex_number': -39, 'evos': [], 'alts': ['Crucibelle-Mega'], 'genfamily': ['XY', 'SM', 'SS']}"
+810,Pluffle,74,38,51,65,78,49,1.8,0.8,['Fairy'],"['Aroma Veil', 'Friend Guard', 'Natural Cure']",,CAP,"{'dex_number': -40, 'evos': ['Kerfluffle'], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+811,Kerfluffle,84,78,86,115,88,119,24.2,2.1,"['Fairy', 'Fighting']","['Aroma Veil', 'Friend Guard', 'Natural Cure']",CAP,CAP,"{'dex_number': -41, 'evos': [], 'alts': [], 'genfamily': ['XY', 'SM', 'SS']}"
+826,Justyke,72,70,56,83,68,30,36.5,0.4,"['Steel', 'Ground']","['Justified', 'Levitate', 'Stalwart']",,CAP,"{'dex_number': -54, 'evos': ['Equilibra'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+827,Equilibra,102,50,96,121,118,60,51.3,0.8,"['Steel', 'Ground']","['Justified', 'Levitate', 'Stalwart']",CAP,CAP,"{'dex_number': -55, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+965,Pajantom,84,133,71,51,111,101,3.1,1.1,"['Dragon', 'Ghost']",['Comatose'],CAP,CAP,"{'dex_number': -42, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+966,Mumbao,55,30,64,87,73,66,250.0,1.0,"['Grass', 'Fairy']","['Overcoat', 'Solar Power', 'Trace']",,CAP,"{'dex_number': -43, 'evos': ['Jumbao'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+967,Jumbao,92,63,97,124,104,96,600.0,2.4,"['Grass', 'Fairy']","['Drought', 'Overcoat', 'Trace']",CAP,CAP,"{'dex_number': -44, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+968,Fawnifer,49,61,42,52,40,76,6.9,0.7,['Grass'],"['Lightning Rod', 'Overgrow']",,CAP,"{'dex_number': -45, 'evos': ['Electrelk'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+969,Electrelk,59,81,67,57,55,101,41.5,1.4,"['Grass', 'Electric']","['Galvanize', 'Overgrow']",,CAP,"{'dex_number': -46, 'evos': ['Caribolt'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+970,Caribolt,84,106,82,77,80,106,140.0,2.5,"['Grass', 'Electric']","['Galvanize', 'Overgrow']",CAP,CAP,"{'dex_number': -47, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+971,Smogecko,48,66,43,58,48,56,8.5,0.5,['Fire'],"['Blaze', 'Technician']",,CAP,"{'dex_number': -48, 'evos': ['Smoguana'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+972,Smoguana,68,86,53,68,68,76,22.2,1.5,"['Fire', 'Ground']","['Blaze', 'Technician']",,CAP,"{'dex_number': -49, 'evos': ['Smokomodo'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+973,Smokomodo,88,116,67,88,78,97,205.0,2.2,"['Fire', 'Ground']","['Blaze', 'Technician']",CAP,CAP,"{'dex_number': -50, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+974,Swirlpool,61,49,70,50,62,28,7.0,0.5,['Water'],"['Poison Heal', 'Torrent']",,CAP,"{'dex_number': -51, 'evos': ['Coribalis'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+975,Coribalis,76,69,90,65,77,43,24.5,1.4,"['Water', 'Bug']","['Poison Heal', 'Torrent']",,CAP,"{'dex_number': -52, 'evos': ['Snaelstrom'], 'alts': [], 'genfamily': ['SM', 'SS']}"
+976,Snaelstrom,91,94,110,80,97,63,120.0,2.0,"['Water', 'Bug']","['Poison Heal', 'Torrent']",CAP,CAP,"{'dex_number': -53, 'evos': [], 'alts': [], 'genfamily': ['SM', 'SS']}"
+1097,Solotl,68,48,34,72,24,84,11.8,0.6,"['Fire', 'Dragon']","['Magician', 'Regenerator', 'Vital Spirit']",,CAP,"{'dex_number': -56, 'evos': ['Astrolotl'], 'alts': [], 'genfamily': ['SS']}"
+1098,Astrolotl,108,108,74,92,64,114,50.0,1.9,"['Fire', 'Dragon']","['Magician', 'Regenerator', 'Vital Spirit']",CAP,CAP,"{'dex_number': -57, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+1099,Miasmite,40,85,60,52,52,44,10.1,0.6,"['Bug', 'Dragon']","['Compound Eyes', 'Hyper Cutter', 'Neutralizing Gas']",,CAP,"{'dex_number': -58, 'evos': ['Miasmaw'], 'alts': [], 'genfamily': ['SS']}"
+1100,Miasmaw,85,135,60,115,85,92,57.0,1.2,"['Bug', 'Dragon']","['Compound Eyes', 'Hyper Cutter', 'Neutralizing Gas']",CAP,CAP,"{'dex_number': -59, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+1101,Chromera,85,85,115,115,100,100,215.0,2.5,"['Dark', 'Poison']",['Color Change'],CAP,CAP,"{'dex_number': -60, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
